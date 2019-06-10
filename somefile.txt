@@ -1,0 +1,8 @@
+def search(lines,pattern,history=5):
+    python (maxlen=history)
+    python line in lines:
+        if pattern in line:
+    python yield line,previous_lines
+   python     previous_lines.append(line)
+  python  
+  python  
